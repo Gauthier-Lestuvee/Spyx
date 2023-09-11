@@ -1,0 +1,86 @@
+    {
+    "Small-house": {
+        "name": "Petite Maison",
+        "description": "Une petite maison confortable pour votre famille.",
+        "price": 144000,
+        "type": "houses",
+        "emoji": "🏠"
+    },
+    "Normal-house": {
+        "name": "Maison Normal",
+        "description": "Une maison de taille moyenne avec de l'espace pour tout le monde.",
+        "price": 180000,
+        "type": "houses",
+        "emoji": "🏠"
+    },
+    "Medium-house": {
+        "name": "Maison Moyenne",
+        "description": "Une maison spacieuse parfaite pour une famille nombreuse.",
+        "price": 216000,
+        "type": "houses",
+        "emoji": "🏠"
+    },
+    "Large-house": {
+        "name": "Grande Maison",
+        "description": "Une grande maison luxueuse avec de nombreux équipements.",
+        "price": 252000,
+        "type": "houses",
+        "emoji": "🏠"
+    },
+    "Small-apartement": {
+        "name": "Petit Appartement",
+        "description": "Un petit appartement confortable pour une personne seule.",
+        "price": 84000,
+        "type": "apartments",
+        "emoji": "🏢"
+    },
+    "Normal-apartement": {
+        "name": "Appartement Normal",
+        "description": "Un appartement standard avec tout ce dont vous avez besoin.",
+        "price": 108000,
+        "type": "apartments",
+        "emoji": "🏢"
+    },
+    "Medium-apartement": {
+        "name": "Appartement Moyen",
+        "description": "Un appartement spacieux avec une vue magnifique.",
+        "price": 132000,
+        "type": "apartments",
+        "emoji": "🏢"
+    },
+    "Large-apartement": {
+        "name": "Appartement Grande",
+        "description": "Un appartement luxueux avec des commodités haut de gamme.",
+        "price": 156000,
+        "type": "apartments",
+        "emoji": "🏢"
+    },
+    "Small-studio": {
+        "name": "Petit Studio",
+        "description": "Un petit studio idéal pour les étudiants ou les jeunes professionnels.",
+        "price": 7200,
+        "type": "studios",
+        "emoji": "🏢"
+    },
+    "Normal-studio": {
+        "name": "Studio Normal",
+        "description": "Un studio standard avec tout le nécessaire pour vivre confortablement.",
+        "price": 9600,
+        "type": "studios",
+        "emoji": "🏢"
+    },
+    "Medium-studio": {
+        "name": "Studio Moyen",
+        "description": "Un studio spacieux avec de l'espace pour créer et se détendre.",
+        "price": 12000,
+        "type": "studios",
+        "emoji": "🏢"
+    },
+    "Large-studio": {
+        "name": "Studio Grande",
+        "description": "Un studio de grande taille pour ceux qui recherchent l'espace.",
+        "price": 14400,
+        "type": "studios",
+        "emoji": "🏢"
+    }
+}

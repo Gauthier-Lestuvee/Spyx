@@ -1,0 +1,14 @@
+{
+    "kx._ro": {
+        "jobs": "mechanic",
+        "salary": 1600,
+        "mission": 250,
+        "level_reward": 1
+    },
+    "kxrokoro": {
+        "jobs": "food_seller",
+        "salary": 4500,
+        "mission": 0,
+        "level": 0
+    }
+}

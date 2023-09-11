@@ -1,0 +1,20 @@
+{
+    "house": [
+        "Small House",
+        "Normal House",
+        "Medium House",
+        "Large House"
+    ],
+    "apartment": [
+        "Small Apartment",
+        "Normal Apartment",
+        "Medium Apartment",
+        "Large Apartment"
+    ],
+    "studio": [
+        "Small Studio",
+        "Normal Studio",
+        "Medium Studio",
+        "Large Studio"
+    ]
+}

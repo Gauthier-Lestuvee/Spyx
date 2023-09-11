@@ -1,0 +1,58 @@
+{
+    "mechanic": {
+        "name": "mechanic",
+        "jobs": "Mécanicien",
+        "salary": 1600,
+        "mission": 250,
+        "level_reward": 1,
+        "level": 5
+    },
+    "food_seller": {
+        "name": "food_seller",
+        "jobs": "marchand de nourriture",
+        "salary": 2342,
+        "mission": 0,
+        "level_reward": 6,
+        "level": 150
+    },
+    "farmer": {
+        "name": "farmer",
+        "jobs": "Fermier",
+        "salary": 2530,
+        "mission": 150,
+        "level_reward": 3, 
+        "level": 50
+    },
+    "scientist": {
+        "name": "scientist",
+        "jobs": "Scientifique",
+        "salary": 2916,
+        "mission": 450,
+        "level_reward": 12,
+        "xp": 300
+    },
+    "engineer": {
+        "name": "engineer",
+        "jobs": "Ingénieur",
+        "salary": 3190,
+        "mission": 350,
+        "level_reward": 16,
+        "level": 600
+    },
+    "car_dealer": {
+        "name": "car_dealer",
+        "jobs": "Concessionnaire",
+        "salary": 3300,
+        "mission": 650,
+        "level_reward": 17,
+        "level": 750
+    },
+    "doctor": {
+        "name": "doctor",
+        "jobs": "Docteur",
+        "salary": 4297,
+        "mission": 550,
+        "level_reward": 18,
+        "level":1000
+    }
+}

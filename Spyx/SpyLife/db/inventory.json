@@ -1,0 +1,51 @@
+{
+    "kx._ro": [
+        {
+            "name": "Pain",
+            "price": 1,
+            "type": "foods"
+        },
+        {
+            "name": "Jus de pomme",
+            "price": 3.5,
+            "type": "drinks"
+        },
+        {
+            "name": "Jus de pomme",
+            "price": 3.5,
+            "type": "drinks"
+        },
+        {
+            "name": "Pain",
+            "price": 1,
+            "type": "foods"
+        },
+        {
+            "name": "Jus de pomme",
+            "price": 3.5,
+            "type": "drinks"
+        },
+        {
+            "name": "Poire",
+            "price": 0.7,
+            "type": "foods"
+        },
+        {
+            "name": "Pomme",
+            "price": 0.5,
+            "type": "foods"
+        },
+        {
+            "name": "Soupe de tomate",
+            "price": 5.5,
+            "type": "foods"
+        }
+    ],
+    "kxrokoro": [
+        {
+            "name": "Eau",
+            "price": 0.2,
+            "type": "drinks"
+        }
+    ]
+}

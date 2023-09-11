@@ -1,0 +1,114 @@
+{
+    "Yaourt": {
+        "name": "Yaourt",
+        "description": "Un délicieux yaourt crémeux.",
+        "price": 1.50,
+        "type": "foods",
+        "foods_reward": 10,
+        "emoji": "🥛"
+    },
+    "Eau": {
+        "name": "Eau",
+        "description": "Une bouteille d'eau fraîche et pure.",
+        "price": 0.20,
+        "type": "drinks",
+        "drink_reward": 25,
+        "emoji": "💧"
+    },
+    "Pain": {
+        "name": "Pain",
+        "description": "Une baguette de pain croustillante.",
+        "price": 1,
+        "type": "foods",
+        "foods_reward": 15,
+        "emoji": "🥖"
+    },
+    "Chocolat": {
+        "name": "Chocolat",
+        "description": "Une tablette de chocolat sucrée et gourmande.",
+        "price": 4.50,
+        "type": "foods",
+        "foods_reward": 25,
+        "emoji": "🍫"
+    },
+    "Ravioli": {
+        "name": "Ravioli",
+        "description": "De délicieux ravioli a la sauce tomate",
+        "price": 2.50,
+        "type": "foods",
+        "foods_reward": 20,
+        "emoji": "🥙"
+    },
+    "Pizza": {
+        "name": "Pizza",
+        "description": "Une pizza de viande.",
+        "price": 5,
+        "type": "foods",
+        "foods_reward": 55,
+        "emoji": "🍕"
+    },
+    "Jus de pomme": {
+        "name": "Jus de pomme",
+        "description": "Une jus de pomme.",
+        "price": 3.50,
+        "type": "drinks",
+        "drink_reward": 25,
+        "emoji": "🍎"
+    },
+    "Jus de pêche": {
+        "name": "Jus de pêche",
+        "description": "Une jus de pêche.",
+        "price": 3.50,
+        "type": "drinks",
+        "drink_reward": 25,
+        "emoji": "🍑"
+    },
+    "Soupe de tomate": {
+        "name": "Soupe de tomate",
+        "description": "Une soupe de tomate.",
+        "price": 5.50,
+        "type": "foods",
+        "foods_reward": 10,
+        "emoji": "🍜"
+    },
+    "Pomme": {
+        "name": "Pomme",
+        "description": "Une pomme.",
+        "price": 0.50,
+        "type": "foods",
+        "foods_reward": 5,
+        "emoji": "🍏"
+    },
+    "Pêche":{
+        "name": "Pêche",
+        "description": "Une pêche.",
+        "price": 0.50,
+        "type": "foods",
+        "foods_reward": 5,
+        "emoji": "🍑"
+    },
+    "Tomate": {
+        "name": "Tomate",
+        "description": "Une tomate.",
+        "price": 0.50,
+        "type": "foods",
+        "foods_reward": 10,
+        "emoji": "🍅"
+    },
+    "Poire": {
+        "name": "Poire",
+        "description": "Une poire.",
+        "price": 0.70,
+        "type": "foods",
+        "foods_reward": 5,
+        "emoji": "🍐"
+    },
+    "Pâte": {
+        "name": "Pâte",
+        "description": "Une pâte.",
+        "price": 0.50,
+        "type": "foods",
+        "foods_reward": 15,
+        "emoji": "🍆"
+    }
+}

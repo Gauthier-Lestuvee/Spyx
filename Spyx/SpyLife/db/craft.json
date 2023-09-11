@@ -1,0 +1,50 @@
+{
+    "Jus de pomme": [
+        {
+            "name": "Jus de pomme",
+            "required": [
+                "Eau",
+                "Pomme",
+                "Pomme"
+            ],
+            "price": 3.5,
+            "emoji": "🍎"
+        }
+    ],
+    "Jus de pêche": [
+        {
+            "name": "Jus de pêche",
+            "required": [
+                "Pêche",
+                "Pêche",
+                "Eau"
+            ],
+            "price": 3.5,
+            "emoji": "🍏"
+        }
+    ],
+    "Soupe de tomate": [
+        {
+            "name": "Soupe de tomate",
+            "required": [
+                "tomate",
+                "eau",
+                "pomme de terre"
+            ],
+            "price": 3.5,
+            "emoji": "🍅"
+        }
+    ],
+    "Jus de poire": [
+        {
+            "name": "Jus de poire",
+            "required": [
+                "eau",
+                "poire",
+                "poire"
+            ],
+            "price": 3.5,
+            "emoji": "🍐"
+        }
+    ]
+}
