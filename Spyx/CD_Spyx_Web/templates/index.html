@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="/static/background.css">
+    <link rel="stylesheet" href="/static/bootstrap.css">
+<title>Spyx developement</title>
+</head>
+<body>
+    
+    <div class="context">
+        {% if current_user %}
+            <p id='head1' class='header text-dark'>Welcome {{current_user.username}} </p>
+        {% else %}
+            <p id="head1" class="header text-dark">Welcome, you must login for use</p>
+        {% endif %}
+        
+        <p id='head2' class='header text-dark'>Spyx developement present</p>
+        <p id='head3' class='header text-dark'>The app for configuring bots.</p>
+        <p id="head4" class="header text-dark">You can buy my bot on shop</p>
+        <p id='head5' class='header text-dark'>Thanks you for choose Spyx.</p>
+    
+    </div>
+
+    <div class="area" >
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <h1 class="navbar-brand-personal">Spyx</h1>
+            <div class="collapse navbar-collapse navbar-nav-scroll" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <a href="/invite" class="nav-link">Invite</a>
+                    <a href="" class="nav-link">Dashbord</a>
+                    <a href="" class="nav-link">Buy</a>
+                </ul>
+                {% if current_user %}
+                    <div class="dropdown-perso">
+                        <a href="#" class="nav-link nav-position"><button class="btn-perso" onclick="toggleDropdown()"><img src="{{ current_user.avatar_url }}" width="48" height="48" class="img-deport"><span class="text-dark">{{ current_user.username }}</span></button></a>
+                        <div class="dropdown-content" id="myDropdown">
+                            <!--<a href="#">Option 1</a>-->
+                            <hr class="dropdown-divider">
+                            <a href="/logout" class="dropdown-item">Log out</a>
+                        </div>
+                    </div>
+                {% else %}
+                    <a href="/login" class="nav-link nav-position"><button class="btn btn-dark">Log in</button></a>
+                {% endif %}
+            </div>
+        </nav>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            var dropdown = document.getElementById("myDropdown");
+            if (dropdown.style.display === "block") {
+                dropdown.style.display = "none";
+            } else {
+                dropdown.style.display = "block";
+            }
+        }
+    </script>
+
+<script src="/static/bootstrap.js"></script>
+</body>
+</html>
